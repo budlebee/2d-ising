@@ -11,7 +11,7 @@ Niter = 1
 spin = [-1, 1]
 tempstep = 300
 temp = np.linspace(1, 4, tempstep)
-warmup = 10000
+warmup = 1000
 measureinter = 100
 measureiter = 1000
 
